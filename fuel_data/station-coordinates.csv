@@ -1,0 +1,558 @@
+opis_id,latitude,longitude,source
+9,44.0188755,-90.5025615,https://www.openstreetmap.org/way/1204194481; exact chain/store ref
+20,32.9303272,-112.6733351,https://www.openstreetmap.org/node/12099611220; unique chain/city/state match; approximate identity
+46,32.4058429,-85.955894,https://www.openstreetmap.org/node/12323045415; unique chain/city/state match; approximate identity
+147,40.1135842,-85.5725489,https://www.openstreetmap.org/node/6298353994; exact chain/store ref
+203,41.5673052,-87.4729946,https://www.openstreetmap.org/way/1309484266; unique chain/city/state match; approximate identity
+289,39.0201728,-95.1348422,https://www.openstreetmap.org/way/279277299; unique chain/city/state match; approximate identity
+326,41.4239728,-112.0516797,https://www.openstreetmap.org/way/160558018; unique chain/city/state match; approximate identity
+578,45.5438874,-122.3923693,https://www.openstreetmap.org/way/225048018; unique chain/city/state match; approximate identity
+815,43.0085692,-89.9011407,https://www.openstreetmap.org/node/9747494106; unique chain/city/state match; approximate identity
+855,42.3074031,-87.8770185,https://www.openstreetmap.org/way/1026882841; exact chain/store ref
+912,33.2796153,-87.0925118,https://www.openstreetmap.org/node/5576342822; unique chain/city/state match; approximate identity
+936,35.112701,-92.4322861,https://www.openstreetmap.org/way/725193551; unique chain/city/state match; approximate identity
+977,33.6614183,-114.2364213,https://www.openstreetmap.org/way/264996161; unique chain/city/state match; approximate identity
+1136,40.1236408,-87.7786133,https://www.openstreetmap.org/way/416108175; unique chain/city/state match; approximate identity
+1149,39.8215377,-85.9161359,https://www.openstreetmap.org/node/9596357483; exact chain/store ref
+1151,39.8428137,-85.5587972,https://www.openstreetmap.org/node/2377566404; exact chain/store ref
+1204,39.1200664,-88.5725976,https://www.openstreetmap.org/way/219668189; unique chain/city/state match; approximate identity
+1304,36.0680832,-79.3132562,https://www.openstreetmap.org/way/905877390; unique chain/city/state match; approximate identity
+1326,35.7065484,-77.9130368,https://www.openstreetmap.org/node/9389703587; exact chain/store ref
+1445,41.1365662,-104.7063786,https://www.openstreetmap.org/node/1002844680; unique chain/city/state match; approximate identity
+1634,42.8714846,-87.9444165,https://www.openstreetmap.org/node/635243078; unique chain/city/state match; approximate identity
+1647,41.6284491,-87.5085617,https://www.openstreetmap.org/way/1037268333; exact chain/store ref
+1958,36.9360548,-80.9942171,https://www.openstreetmap.org/node/6224489921; exact chain/store ref
+2088,38.7884999,-112.0820416,https://www.openstreetmap.org/way/235915876; unique chain/city/state match; approximate identity
+2227,41.6803092,-88.2051154,https://www.openstreetmap.org/way/658317378; exact chain/store ref
+2765,38.0956985,-102.6202547,https://www.openstreetmap.org/way/224603809; unique chain/city/state match; approximate identity
+2851,32.6731671,-114.4446097,https://www.openstreetmap.org/node/4701809405; exact chain/store ref
+2910,46.8332406,-96.8446951,https://www.openstreetmap.org/way/225056624; exact chain/store ref
+2923,37.9375975,-77.4663068,https://www.openstreetmap.org/way/781067019; exact chain/store ref
+2956,35.270406,-80.8378399,https://www.openstreetmap.org/node/5612026462; unique chain/city/state match; approximate identity
+3086,37.4505044,-79.1212506,https://www.openstreetmap.org/node/6310285968; exact chain/store ref
+3536,35.1920199,-101.7430426,https://www.openstreetmap.org/way/220362825; unique chain/city/state match; approximate identity
+3614,41.7360311,-86.3364949,https://www.openstreetmap.org/relation/16179242; exact chain/store ref
+3688,42.6747934,-82.8151573,https://www.openstreetmap.org/node/8453618986; unique chain/city/state match; approximate identity
+3964,42.22421,-85.7861592,https://www.openstreetmap.org/way/901712603; unique chain/city/state match; approximate identity
+3974,35.4227478,-99.3722968,https://www.openstreetmap.org/node/11711407863; unique chain/city/state match; approximate identity
+3979,41.5631053,-87.3544741,https://www.openstreetmap.org/way/219702639; unique chain/city/state match; approximate identity
+4187,34.5767881,-84.9465965,https://www.openstreetmap.org/way/230493063; unique chain/city/state match; approximate identity
+4239,38.0064695,-84.2100355,https://www.openstreetmap.org/node/9350460681; exact chain/store ref
+4452,42.4547406,-92.4076061,https://www.openstreetmap.org/node/5209368661; exact chain/store ref
+4860,41.1807332,-90.3370057,https://www.openstreetmap.org/way/264238454; unique chain/city/state match; approximate identity
+4885,38.8737946,-89.3873125,https://www.openstreetmap.org/way/225051745; unique chain/city/state match; approximate identity
+4910,38.9955522,-110.1484468,https://www.openstreetmap.org/way/241717704; unique chain/city/state match; approximate identity
+5167,41.5070572,-87.3160098,https://www.openstreetmap.org/way/1037867368; exact chain/store ref
+5227,35.3184092,-78.5757737,https://www.openstreetmap.org/way/236144789; unique chain/city/state match; approximate identity
+5310,44.4704974,-93.2955098,https://www.openstreetmap.org/node/2713422670; unique chain/city/state match; approximate identity
+5363,40.2408478,-76.4364564,https://www.openstreetmap.org/node/8380764144; exact chain/store ref
+5389,41.2312152,-112.0073246,https://www.openstreetmap.org/node/10923316992; exact chain/store ref
+5691,42.0903248,-86.4122987,https://www.openstreetmap.org/node/8382541028; unique chain/city/state match; approximate identity
+5842,41.4262269,-87.755072,https://www.openstreetmap.org/way/219669690; unique chain/city/state match; approximate identity
+6172,42.8616558,-84.886738,https://www.openstreetmap.org/node/8194262104; unique chain/city/state match; approximate identity
+6393,38.2393925,-86.362395,https://www.openstreetmap.org/way/267162689; unique chain/city/state match; approximate identity
+6981,42.7459552,-90.3416345,https://www.openstreetmap.org/way/446610719; unique chain/city/state match; approximate identity
+7018,40.7271332,-111.9159856,https://www.openstreetmap.org/way/229730979; unique chain/city/state match; approximate identity
+7173,42.0595447,-76.1414075,https://www.openstreetmap.org/node/8474057322; exact chain/store ref
+7263,41.0521895,-102.0705214,https://www.openstreetmap.org/node/7502086792; unique chain/city/state match; approximate identity
+7331,38.4996268,-82.6519922,https://www.openstreetmap.org/node/9622630882; exact chain/store ref
+7406,42.4352323,-96.3733017,https://www.openstreetmap.org/node/5555013358; exact chain/store ref
+7733,35.1937219,-101.7240293,https://www.openstreetmap.org/way/236120078; unique chain/city/state match; approximate identity
+7838,44.7808584,-93.0340116,https://www.openstreetmap.org/way/231137532; unique chain/city/state match; approximate identity
+7946,42.5272054,-88.9800144,https://www.openstreetmap.org/way/267159049; unique chain/city/state match; approximate identity
+8987,35.4863865,-95.1492119,https://www.openstreetmap.org/way/226297129; unique chain/city/state match; approximate identity
+9403,40.6592126,-75.0728833,https://www.openstreetmap.org/node/5792682395; unique chain/city/state match; approximate identity
+9699,40.7813125,-81.4199636,https://www.openstreetmap.org/node/9687129562; exact chain/store ref
+9703,41.7854902,-80.8543538,https://www.openstreetmap.org/way/220781342; unique chain/city/state match; approximate identity
+9821,35.9977777,-86.5948145,https://www.openstreetmap.org/way/1253396934; unique chain/city/state match; approximate identity
+9862,41.5730914,-87.4031059,https://www.openstreetmap.org/way/229466168; unique chain/city/state match; approximate identity
+10116,41.9354501,-89.0340888,https://www.openstreetmap.org/way/640367846; unique chain/city/state match; approximate identity
+10122,41.5617944,-87.3566096,https://www.openstreetmap.org/way/219703182; unique chain/city/state match; approximate identity
+10126,38.4917379,-85.7731524,https://www.openstreetmap.org/node/7674506725; unique chain/city/state match; approximate identity
+20050,35.1833958,-97.4992136,https://www.openstreetmap.org/way/669010289; unique chain/city/state match; approximate identity
+52233,32.6702183,-114.578531,https://www.openstreetmap.org/node/9177102380; exact chain/store ref
+52307,43.9702443,-94.6187267,https://www.openstreetmap.org/way/324679230; unique chain/city/state match; approximate identity
+52363,43.2195508,-85.5691309,https://www.openstreetmap.org/node/8196801382; unique chain/city/state match; approximate identity
+52401,35.1732559,-92.7433451,https://www.openstreetmap.org/way/224315666; unique chain/city/state match; approximate identity
+52441,35.5835413,-78.1478709,https://www.openstreetmap.org/way/220150715; unique chain/city/state match; approximate identity
+52458,34.7813813,-92.1273055,https://www.openstreetmap.org/way/218548058; unique chain/city/state match; approximate identity
+52463,36.240684,-115.0978152,https://www.openstreetmap.org/way/264216829; unique chain/city/state match; approximate identity
+52469,33.8866574,-98.4684731,https://www.openstreetmap.org/way/225735091; unique chain/city/state match; approximate identity
+52471,40.8322871,-83.9673143,https://www.openstreetmap.org/way/229321016; exact chain/store ref
+52473,39.6852467,-111.8371241,https://www.openstreetmap.org/node/13953887861; unique chain/city/state match; approximate identity
+52474,42.3025791,-85.0821136,https://www.openstreetmap.org/node/2379587828; unique chain/city/state match; approximate identity
+52479,34.3499272,-83.3211204,https://www.openstreetmap.org/way/219429368; exact chain/store ref
+52549,41.4478705,-81.6693794,https://www.openstreetmap.org/node/2234571689; exact chain/store ref
+52563,30.6418752,-83.1900756,https://www.openstreetmap.org/way/226930516; unique chain/city/state match; approximate identity
+52575,37.0597044,-113.5819527,https://www.openstreetmap.org/way/241718232; unique chain/city/state match; approximate identity
+52580,31.1374418,-81.5718894,https://www.openstreetmap.org/node/5486357522; exact chain/store ref
+52591,37.9333612,-77.4737314,https://www.openstreetmap.org/way/220795018; exact chain/store ref
+52607,36.0228999,-87.340852,https://www.openstreetmap.org/node/9861448027; unique chain/city/state match; approximate identity
+52626,31.1403238,-81.5788371,https://www.openstreetmap.org/node/10062606870; exact chain/store ref
+52633,36.0657799,-79.3098253,https://www.openstreetmap.org/node/5077700121; unique chain/city/state match; approximate identity
+52640,41.4928705,-87.5126398,https://www.openstreetmap.org/way/1037267038; exact chain/store ref
+52675,46.3968227,-105.8209361,https://www.openstreetmap.org/way/1306440658; unique chain/city/state match; approximate identity
+52684,41.8146023,-90.241298,https://www.openstreetmap.org/way/1525686635; unique chain/city/state match; approximate identity
+52697,40.1872493,-111.641964,https://www.openstreetmap.org/way/241716670; unique chain/city/state match; approximate identity
+60191,33.4944141,-112.9377696,https://www.openstreetmap.org/way/951751974; unique chain/city/state match; approximate identity
+60347,43.6517295,-93.3538824,https://www.openstreetmap.org/node/2232308351; unique chain/city/state match; approximate identity
+60579,37.2898034,-79.9102771,https://www.openstreetmap.org/node/9269914772; exact chain/store ref
+60833,41.9387844,-88.1179605,https://www.openstreetmap.org/way/850669924; exact chain/store ref
+60834,41.7485431,-87.7990404,https://www.openstreetmap.org/way/418082563; exact chain/store ref
+60851,41.904493,-88.0418868,https://www.openstreetmap.org/way/850669442; exact chain/store ref
+60882,41.5624269,-85.797608,https://www.openstreetmap.org/node/9573076216; exact chain/store ref
+60902,41.7375957,-86.3349073,https://www.openstreetmap.org/way/1038876758; exact chain/store ref
+61111,39.5469717,-94.3286806,https://www.openstreetmap.org/way/651855754; unique chain/city/state match; approximate identity
+61193,41.0870366,-83.6570297,https://www.openstreetmap.org/node/9670940547; exact chain/store ref
+61205,35.7207131,-78.5858617,https://www.openstreetmap.org/node/1646480638; exact chain/store ref
+61849,43.0903707,-88.9100124,https://www.openstreetmap.org/way/503489087; unique chain/city/state match; approximate identity
+61862,44.0443139,-89.108026,https://www.openstreetmap.org/node/12941504527; exact chain/store ref
+61867,43.9334243,-90.8212611,https://www.openstreetmap.org/way/505982358; exact chain/store ref
+62841,42.5907884,-76.1332034,https://www.openstreetmap.org/node/4432338049; exact chain/store ref
+62887,39.3144486,-84.4640934,https://www.openstreetmap.org/node/9900889899; exact chain/store ref
+63353,40.3401413,-88.7607551,https://www.openstreetmap.org/node/14017694326; unique chain/city/state match; approximate identity
+63391,41.1014741,-100.7263421,https://www.openstreetmap.org/node/13443771149; unique chain/city/state match; approximate identity
+63500,43.3486659,-83.8593718,https://www.openstreetmap.org/way/836154451; unique chain/city/state match; approximate identity
+63510,34.3453287,-79.5344354,https://www.openstreetmap.org/node/4782121832; unique chain/city/state match; approximate identity
+63512,36.0939865,-79.9954415,https://www.openstreetmap.org/node/2515776528; exact chain/store ref
+63565,32.9440135,-112.733305,https://www.openstreetmap.org/node/914190265; unique chain/city/state match; approximate identity
+63572,34.7283229,-114.3159951,https://www.openstreetmap.org/way/223539704; unique chain/city/state match; approximate identity
+63581,37.9614847,-84.3872423,https://www.openstreetmap.org/node/9354092729; unique chain/city/state match; approximate identity
+63613,32.3412807,-108.6770561,https://www.openstreetmap.org/relation/21083112; unique chain/city/state match; approximate identity
+63616,42.3936315,-83.7612933,https://www.openstreetmap.org/node/1615932043; unique chain/city/state match; approximate identity
+63627,34.4681007,-89.0067231,https://www.openstreetmap.org/way/236750655; unique chain/city/state match; approximate identity
+63652,42.4689836,-91.9036319,https://www.openstreetmap.org/node/5624680010; unique chain/city/state match; approximate identity
+63653,42.0867534,-110.9479791,https://www.openstreetmap.org/node/6556592496; unique chain/city/state match; approximate identity
+63661,34.9289335,-89.793757,https://www.openstreetmap.org/way/230879554; unique chain/city/state match; approximate identity
+63715,40.8364348,-111.9341022,https://www.openstreetmap.org/node/12197868154; unique chain/city/state match; approximate identity
+63720,33.4609104,-112.205449,https://www.openstreetmap.org/node/1660172680; unique chain/city/state match; approximate identity
+63729,40.7394515,-114.066462,https://www.openstreetmap.org/way/264209941; unique chain/city/state match; approximate identity
+63755,35.4046385,-94.5216602,https://www.openstreetmap.org/way/265529438; unique chain/city/state match; approximate identity
+63766,41.7983915,-83.69414,https://www.openstreetmap.org/way/796722330; unique chain/city/state match; approximate identity
+63768,39.0032073,-93.7347166,https://www.openstreetmap.org/way/555000321; unique chain/city/state match; approximate identity
+63770,41.7893368,-80.8556286,https://www.openstreetmap.org/way/220780613; unique chain/city/state match; approximate identity
+63775,42.4934138,-88.9991753,https://www.openstreetmap.org/way/827484727; unique chain/city/state match; approximate identity
+63787,30.4521205,-88.9337441,https://www.openstreetmap.org/way/165891523; unique chain/city/state match; approximate identity
+63912,30.759652,-81.6559665,https://www.openstreetmap.org/node/10010181374; exact chain/store ref
+64002,37.829207,-85.7237582,https://www.openstreetmap.org/node/8584505731; exact chain/store ref
+64040,30.2533989,-93.0145672,https://www.openstreetmap.org/node/4169753069; unique chain/city/state match; approximate identity
+64082,42.9835799,-83.9283932,https://www.openstreetmap.org/node/8116461720; unique chain/city/state match; approximate identity
+64153,35.9559652,-78.8417655,https://www.openstreetmap.org/node/9395599063; exact chain/store ref
+64155,36.1460493,-78.7228225,https://www.openstreetmap.org/way/586982792; exact chain/store ref
+64156,35.6089149,-78.5614569,https://www.openstreetmap.org/node/9254016940; exact chain/store ref
+64187,35.5215165,-105.2519351,https://www.openstreetmap.org/node/2879191692; exact chain/store ref
+64229,39.9801793,-82.4853272,https://www.openstreetmap.org/way/924413154; exact chain/store ref
+64285,35.1660141,-81.4509705,https://www.openstreetmap.org/node/651186894; unique chain/city/state match; approximate identity
+64347,36.5824158,-79.3538965,https://www.openstreetmap.org/way/220906405; unique chain/city/state match; approximate identity
+64435,36.5816897,-79.3491921,https://www.openstreetmap.org/node/6515249636; exact chain/store ref
+64438,36.6751074,-78.926771,https://www.openstreetmap.org/node/5497869217; unique chain/city/state match; approximate identity
+64446,42.5243101,-88.9851627,https://www.openstreetmap.org/node/9206357192; exact chain/store ref
+64455,38.0662386,-78.8773781,https://www.openstreetmap.org/node/3137211147; exact chain/store ref
+64487,39.1492443,-88.531433,https://www.openstreetmap.org/way/1289022151; unique chain/city/state match; approximate identity
+64514,31.9971323,-106.5862026,https://www.openstreetmap.org/way/236124449; unique chain/city/state match; approximate identity
+64529,35.1962494,-101.7414028,https://www.openstreetmap.org/way/220362345; unique chain/city/state match; approximate identity
+64600,35.4568705,-93.483509,https://www.openstreetmap.org/way/1350812373; unique chain/city/state match; approximate identity
+64679,34.6083658,-92.5337165,https://www.openstreetmap.org/way/264987548; unique chain/city/state match; approximate identity
+64755,38.9391976,-92.7736365,https://www.openstreetmap.org/way/554602289; unique chain/city/state match; approximate identity
+64779,28.522777,-82.3036304,https://www.openstreetmap.org/node/2664345630; exact chain/store ref
+64877,41.4888176,-91.5472367,https://www.openstreetmap.org/node/2826175726; unique chain/city/state match; approximate identity
+64920,41.9101174,-89.0694434,https://www.openstreetmap.org/way/821222854; unique chain/city/state match; approximate identity
+64928,41.7372333,-87.8843611,https://www.openstreetmap.org/way/1029292930; exact chain/store ref
+65033,40.8335656,-83.9644551,https://www.openstreetmap.org/way/229320512; exact chain/store ref
+65141,44.0206376,-92.7455651,https://www.openstreetmap.org/node/1780720951; unique chain/city/state match; approximate identity
+65162,38.4859802,-90.3573707,https://www.openstreetmap.org/way/578817357; unique chain/city/state match; approximate identity
+65251,35.1477096,-77.106879,https://www.openstreetmap.org/node/2819577014; exact chain/store ref
+65252,35.9652306,-77.3038923,https://www.openstreetmap.org/way/1016972190; exact chain/store ref
+65268,36.056122,-80.2094919,https://www.openstreetmap.org/node/5970879413; exact chain/store ref
+65320,40.8921299,-74.6857592,https://www.openstreetmap.org/way/267162756; exact chain/store ref
+65415,40.7476336,-81.5165186,https://www.openstreetmap.org/node/9588036068; exact chain/store ref
+65573,33.9903111,-79.1995703,https://www.openstreetmap.org/node/5776031278; exact chain/store ref
+65588,32.8032619,-80.1104432,https://www.openstreetmap.org/node/1642426546; exact chain/store ref
+65793,44.0240487,-89.8104973,https://www.openstreetmap.org/way/1333063563; unique chain/city/state match; approximate identity
+65804,44.1989781,-88.6805573,https://www.openstreetmap.org/way/704300179; exact chain/store ref
+65809,44.0260531,-90.0747806,https://www.openstreetmap.org/way/991978190; unique chain/city/state match; approximate identity
+65837,40.3708354,-82.830336,https://www.openstreetmap.org/way/229321788; unique chain/city/state match; approximate identity
+65858,41.6917663,-86.8040159,https://www.openstreetmap.org/node/9565802915; exact chain/store ref
+65859,41.6676483,-85.8223158,https://www.openstreetmap.org/node/4606449386; exact chain/store ref
+65862,38.0199231,-79.1409781,https://www.openstreetmap.org/node/4609317831; unique chain/city/state match; approximate identity
+65866,41.824289,-75.6823855,https://www.openstreetmap.org/way/220548459; unique chain/city/state match; approximate identity
+65914,40.9219186,-98.3594083,https://www.openstreetmap.org/way/549375768; unique chain/city/state match; approximate identity
+65983,36.0725372,-76.6118136,https://www.openstreetmap.org/node/9376620267; exact chain/store ref
+66020,39.9685708,-81.9029346,https://www.openstreetmap.org/way/220778962; unique chain/city/state match; approximate identity
+66021,37.9791505,-85.6941354,https://www.openstreetmap.org/way/225808185; unique chain/city/state match; approximate identity
+66026,39.1341783,-88.5665489,https://www.openstreetmap.org/way/223479935; unique chain/city/state match; approximate identity
+66036,33.5620937,-86.8306737,https://www.openstreetmap.org/way/230483737; unique chain/city/state match; approximate identity
+66040,35.19961,-113.903988,https://www.openstreetmap.org/way/223539583; unique chain/city/state match; approximate identity
+66093,43.8770285,-92.4898329,https://www.openstreetmap.org/node/5631420253; unique chain/city/state match; approximate identity
+66106,38.29259,-112.6532146,https://www.openstreetmap.org/way/235915020; unique chain/city/state match; approximate identity
+66110,42.4348046,-96.3793738,https://www.openstreetmap.org/way/225361262; unique chain/city/state match; approximate identity
+66120,36.0119881,-83.5323062,https://www.openstreetmap.org/node/6616599586; exact chain/store ref
+66131,40.5309425,-74.3253829,https://www.openstreetmap.org/node/9239315135; exact chain/store ref
+66250,36.0130768,-78.5168228,https://www.openstreetmap.org/node/9393331159; exact chain/store ref
+66263,40.4854665,-75.8398628,https://www.openstreetmap.org/way/971353223; exact chain/store ref
+66273,33.995083,-86.0827357,https://www.openstreetmap.org/node/12302815184; unique chain/city/state match; approximate identity
+66294,42.7871614,-84.6776202,https://www.openstreetmap.org/node/8255967372; unique chain/city/state match; approximate identity
+66295,42.8712569,-87.9415223,https://www.openstreetmap.org/node/635243687; unique chain/city/state match; approximate identity
+66315,41.6496777,-86.8946126,https://www.openstreetmap.org/way/953827008; exact chain/store ref
+66322,38.155157,-88.910879,https://www.openstreetmap.org/node/2382882894; unique chain/city/state match; approximate identity
+66352,44.1003612,-88.5422821,https://www.openstreetmap.org/way/768027037; exact chain/store ref
+66370,35.6951887,-77.9399853,https://www.openstreetmap.org/node/9389516295; exact chain/store ref
+66386,36.7475667,-79.9375042,https://www.openstreetmap.org/way/982350179; exact chain/store ref
+66405,43.4515033,-83.8940692,https://www.openstreetmap.org/node/8038471969; unique chain/city/state match; approximate identity
+66475,32.6857237,-115.3799236,https://www.openstreetmap.org/node/3766932699; exact chain/store ref
+66478,39.019533,-95.5082829,https://www.openstreetmap.org/way/379404858; exact chain/store ref
+66534,38.9339181,-92.7791729,https://www.openstreetmap.org/way/554597211; unique chain/city/state match; approximate identity
+66564,35.9205407,-80.0006037,https://www.openstreetmap.org/node/8917695435; exact chain/store ref
+66631,42.7563269,-85.0751385,https://www.openstreetmap.org/node/5769351878; unique chain/city/state match; approximate identity
+66670,35.4132076,-78.8076856,https://www.openstreetmap.org/node/6386087748; exact chain/store ref
+66725,38.1929299,-85.7512515,https://www.openstreetmap.org/node/9370970632; exact chain/store ref
+66747,42.4555849,-88.9981138,https://www.openstreetmap.org/way/225052242; unique chain/city/state match; approximate identity
+66761,33.8182782,-79.0236754,https://www.openstreetmap.org/node/2724814156; exact chain/store ref
+66763,34.9660609,-80.0619876,https://www.openstreetmap.org/node/9408882326; exact chain/store ref
+66769,30.7938961,-81.6664383,https://www.openstreetmap.org/node/11332080373; exact chain/store ref
+66858,33.2802497,-111.962264,https://www.openstreetmap.org/node/4854438923; unique chain/city/state match; approximate identity
+66865,33.8908289,-98.4829898,https://www.openstreetmap.org/way/236135484; unique chain/city/state match; approximate identity
+66869,36.6281694,-79.8593276,https://www.openstreetmap.org/node/9273408383; exact chain/store ref
+66876,37.2552842,-87.4492883,https://www.openstreetmap.org/way/223215971; unique chain/city/state match; approximate identity
+66892,42.2801905,-84.930575,https://www.openstreetmap.org/way/224604417; unique chain/city/state match; approximate identity
+66900,34.0510623,-86.8721403,https://www.openstreetmap.org/node/12323068362; unique chain/city/state match; approximate identity
+66912,37.7260076,-113.0510253,https://www.openstreetmap.org/way/225054740; unique chain/city/state match; approximate identity
+66914,35.5746783,-78.1459266,https://www.openstreetmap.org/node/5486357422; unique chain/city/state match; approximate identity
+66937,37.9814564,-91.71978,https://www.openstreetmap.org/way/677336596; unique chain/city/state match; approximate identity
+67037,40.9965463,-81.9943785,https://www.openstreetmap.org/way/225055027; exact chain/store ref
+67054,40.7698551,-111.940788,https://www.openstreetmap.org/way/225054893; unique chain/city/state match; approximate identity
+67067,40.0778674,-104.648352,https://www.openstreetmap.org/node/4182375319; unique chain/city/state match; approximate identity
+67069,39.2755194,-103.7089997,https://www.openstreetmap.org/node/9984605765; unique chain/city/state match; approximate identity
+67081,33.1598486,-84.8712874,https://www.openstreetmap.org/way/225050448; exact chain/store ref
+67085,41.0922229,-74.1558217,https://www.openstreetmap.org/relation/9107525; exact chain/store ref
+67086,34.6972622,-77.1395849,https://www.openstreetmap.org/node/9373095979; exact chain/store ref
+67087,34.4391209,-77.8801756,https://www.openstreetmap.org/way/1015999585; exact chain/store ref
+67091,34.9887535,-79.2510939,https://www.openstreetmap.org/node/9402544206; exact chain/store ref
+67092,35.8347893,-76.7651801,https://www.openstreetmap.org/way/275611912; exact chain/store ref
+67095,35.5190617,-77.0920618,https://www.openstreetmap.org/node/2817088468; exact chain/store ref
+67096,35.0180403,-78.9031285,https://www.openstreetmap.org/way/1019262326; exact chain/store ref
+67097,35.2440567,-77.6167835,https://www.openstreetmap.org/node/9388525113; exact chain/store ref
+67101,35.2511916,-80.5015912,https://www.openstreetmap.org/node/9409019420; exact chain/store ref
+67103,35.8461889,-77.0507476,https://www.openstreetmap.org/node/9380267828; exact chain/store ref
+67107,33.8080912,-79.0190717,https://www.openstreetmap.org/node/2709715116; exact chain/store ref
+67108,33.8548815,-78.8152867,https://www.openstreetmap.org/node/2783581861; exact chain/store ref
+67109,36.6894273,-76.6088576,https://www.openstreetmap.org/node/9275174397; exact chain/store ref
+67114,41.0787296,-87.8683672,https://www.openstreetmap.org/way/251859826; exact chain/store ref
+67125,41.1731985,-80.5693148,https://www.openstreetmap.org/way/220784541; unique chain/city/state match; approximate identity
+67155,38.9705692,-89.1364412,https://www.openstreetmap.org/node/4743143943; unique chain/city/state match; approximate identity
+67163,40.5174748,-76.1115035,https://www.openstreetmap.org/way/645515149; unique chain/city/state match; approximate identity
+67164,39.2556647,-112.116115,https://www.openstreetmap.org/way/235915986; unique chain/city/state match; approximate identity
+67167,44.0445948,-116.9759732,https://www.openstreetmap.org/way/1317725115; unique chain/city/state match; approximate identity
+67196,43.9972884,-92.2479074,https://www.openstreetmap.org/node/1583445707; unique chain/city/state match; approximate identity
+67211,43.8539119,-88.8616864,https://www.openstreetmap.org/way/251404341; unique chain/city/state match; approximate identity
+67219,45.4646766,-91.1117801,https://www.openstreetmap.org/way/1322056015; unique chain/city/state match; approximate identity
+67226,43.9229632,-91.2452415,https://www.openstreetmap.org/node/7178523488; exact chain/store ref
+67234,43.6813641,-90.265628,https://www.openstreetmap.org/way/1327355898; unique chain/city/state match; approximate identity
+67242,36.2794402,-80.8256456,https://www.openstreetmap.org/node/9414286332; exact chain/store ref
+67243,34.7244471,-114.3153797,https://www.openstreetmap.org/way/264993829; unique chain/city/state match; approximate identity
+67245,33.8434586,-79.0872344,https://www.openstreetmap.org/node/2738902947; exact chain/store ref
+67246,34.7627516,-77.4863813,https://www.openstreetmap.org/node/9375053780; exact chain/store ref
+67248,35.7256116,-78.5811152,https://www.openstreetmap.org/way/47662109; exact chain/store ref
+67293,43.5669019,-88.9162773,https://www.openstreetmap.org/node/9414098535; unique chain/city/state match; approximate identity
+67296,36.3818449,-114.8962095,https://www.openstreetmap.org/way/225364818; unique chain/city/state match; approximate identity
+67298,39.9499108,-83.3828107,https://www.openstreetmap.org/way/221788337; exact chain/store ref
+67322,34.3159845,-88.7911133,https://www.openstreetmap.org/way/225873290; unique chain/city/state match; approximate identity
+67348,41.9138845,-80.5701603,https://www.openstreetmap.org/node/8082089658; unique chain/city/state match; approximate identity
+67357,46.8320766,-96.8448793,https://www.openstreetmap.org/way/225056492; exact chain/store ref
+67365,44.0731965,-87.700124,https://www.openstreetmap.org/way/226013389; unique chain/city/state match; approximate identity
+67367,43.5750958,-90.8882119,https://www.openstreetmap.org/node/2397971801; unique chain/city/state match; approximate identity
+67393,33.4311834,-112.5913991,https://www.openstreetmap.org/way/223537903; unique chain/city/state match; approximate identity
+67613,42.4703604,-92.4466442,https://www.openstreetmap.org/node/3951963019; exact chain/store ref
+67616,44.2888483,-88.4772806,https://www.openstreetmap.org/way/642410177; exact chain/store ref
+67620,34.7397992,-97.2226607,https://www.openstreetmap.org/node/12760087525; unique chain/city/state match; approximate identity
+67622,46.6042296,-122.907754,https://www.openstreetmap.org/way/705008098; exact chain/store ref
+67624,39.7407236,-104.4343359,https://www.openstreetmap.org/way/224603696; unique chain/city/state match; approximate identity
+67657,44.2828475,-92.6678321,https://www.openstreetmap.org/node/2479666290; unique chain/city/state match; approximate identity
+67683,40.8488975,-99.9854973,https://www.openstreetmap.org/node/8805633253; unique chain/city/state match; approximate identity
+67685,41.9763727,-91.6190608,https://www.openstreetmap.org/node/3722124986; unique chain/city/state match; approximate identity
+67702,28.3209893,-82.5026712,https://www.openstreetmap.org/way/427643373; exact chain/store ref
+67703,27.886067,-82.7007233,https://www.openstreetmap.org/node/2606139608; exact chain/store ref
+67706,40.6746252,-74.1989377,https://www.openstreetmap.org/node/9241674442; exact chain/store ref
+67707,40.6324194,-74.2383122,https://www.openstreetmap.org/node/9239349490; exact chain/store ref
+67726,35.6068708,-77.4299735,https://www.openstreetmap.org/way/631721386; exact chain/store ref
+67727,35.6262863,-77.3282728,https://www.openstreetmap.org/node/9384576209; exact chain/store ref
+67728,35.3115277,-77.1599727,https://www.openstreetmap.org/node/9377524507; exact chain/store ref
+67729,35.9782467,-77.7899256,https://www.openstreetmap.org/node/9391943837; exact chain/store ref
+67815,39.6159964,-86.4790292,https://www.openstreetmap.org/way/229464669; unique chain/city/state match; approximate identity
+67818,34.6569452,-92.4125214,https://www.openstreetmap.org/way/893136392; unique chain/city/state match; approximate identity
+67943,39.9791264,-86.3953228,https://www.openstreetmap.org/way/225347312; exact chain/store ref
+67976,44.8875446,-88.0454783,https://www.openstreetmap.org/node/11168310864; exact chain/store ref
+68154,41.072793,-87.866766,https://www.openstreetmap.org/way/225052008; unique chain/city/state match; approximate identity
+68243,47.2420227,-122.4120193,https://www.openstreetmap.org/way/1033370988; unique chain/city/state match; approximate identity
+68337,41.47036,-87.2594507,https://www.openstreetmap.org/way/1037871381; exact chain/store ref
+68359,33.7912266,-87.2420682,https://www.openstreetmap.org/way/1258811613; unique chain/city/state match; approximate identity
+68367,31.998197,-106.5812225,https://www.openstreetmap.org/way/225718776; unique chain/city/state match; approximate identity
+68372,40.41942,-86.1268562,https://www.openstreetmap.org/node/9584191563; exact chain/store ref
+68375,38.4801585,-78.8184327,https://www.openstreetmap.org/way/1147235921; unique chain/city/state match; approximate identity
+68386,44.6166558,-88.763015,https://www.openstreetmap.org/way/1092517396; unique chain/city/state match; approximate identity
+68458,43.058062,-85.9573937,https://www.openstreetmap.org/node/6816256099; unique chain/city/state match; approximate identity
+68535,43.0675272,-91.1361457,https://www.openstreetmap.org/way/248405660; unique chain/city/state match; approximate identity
+68624,30.4384218,-88.5284361,https://www.openstreetmap.org/node/5104264387; unique chain/city/state match; approximate identity
+68701,41.4837097,-87.8748131,https://www.openstreetmap.org/way/951482292; exact chain/store ref
+68737,44.5343826,-89.5758985,https://www.openstreetmap.org/relation/12894255; exact chain/store ref
+68797,41.5309717,-87.7910755,https://www.openstreetmap.org/node/9495041417; exact chain/store ref
+68798,31.3386958,-110.9662512,https://www.openstreetmap.org/node/12248018520; unique chain/city/state match; approximate identity
+68813,42.7986835,-84.7398569,https://www.openstreetmap.org/node/8176517245; unique chain/city/state match; approximate identity
+68835,34.8865517,-77.5488338,https://www.openstreetmap.org/node/9375062099; exact chain/store ref
+68891,35.8729943,-84.3237457,https://www.openstreetmap.org/node/12251212282; unique chain/city/state match; approximate identity
+68901,39.357259,-84.2605675,https://www.openstreetmap.org/node/6501052470; exact chain/store ref
+68908,40.0593271,-82.9377496,https://www.openstreetmap.org/node/4654635060; exact chain/store ref
+68928,35.0111909,-106.0438679,https://www.openstreetmap.org/way/904936667; unique chain/city/state match; approximate identity
+68929,35.9992475,-80.034805,https://www.openstreetmap.org/node/6433424585; exact chain/store ref
+68946,39.9016859,-84.1923838,https://www.openstreetmap.org/way/1195987447; unique chain/city/state match; approximate identity
+68951,44.5522556,-90.5957404,https://www.openstreetmap.org/way/501064020; unique chain/city/state match; approximate identity
+68956,43.0427478,-89.3532117,https://www.openstreetmap.org/node/9204424910; exact chain/store ref
+68959,39.9304499,-83.6125126,https://www.openstreetmap.org/node/8927555517; exact chain/store ref
+69005,40.031027,-81.4488704,https://www.openstreetmap.org/way/836094225; exact chain/store ref
+69007,36.1392111,-86.7322074,https://www.openstreetmap.org/node/9231013232; exact chain/store ref
+69008,36.1827989,-85.4596636,https://www.openstreetmap.org/node/9233240849; exact chain/store ref
+69013,36.1744601,-86.3019107,https://www.openstreetmap.org/node/9231418067; exact chain/store ref
+69041,35.6173458,-77.6035372,https://www.openstreetmap.org/node/9384838723; exact chain/store ref
+69047,41.6616104,-87.7195743,https://www.openstreetmap.org/way/1029177498; exact chain/store ref
+69053,33.7657148,-112.5140149,https://www.openstreetmap.org/way/1189183180; unique chain/city/state match; approximate identity
+69073,40.1629727,-111.6518549,https://www.openstreetmap.org/way/923227496; unique chain/city/state match; approximate identity
+69088,40.5318964,-74.2916766,https://www.openstreetmap.org/node/9239339860; exact chain/store ref
+69091,39.8547663,-85.9908254,https://www.openstreetmap.org/node/9599307808; exact chain/store ref
+69096,41.2262503,-80.4509791,https://www.openstreetmap.org/way/667800111; exact chain/store ref
+69117,41.5062999,-83.747908,https://www.openstreetmap.org/way/698949703; exact chain/store ref
+69133,32.6971246,-103.183591,https://www.openstreetmap.org/way/464020385; unique chain/city/state match; approximate identity
+69135,39.8516382,-84.424848,https://www.openstreetmap.org/way/181713859; exact chain/store ref
+69141,37.753261,-100.0119801,https://www.openstreetmap.org/node/12760078840; unique chain/city/state match; approximate identity
+69145,38.7617964,-81.6925954,https://www.openstreetmap.org/node/9244923663; exact chain/store ref
+69151,39.1125828,-108.6480716,https://www.openstreetmap.org/relation/10717656; unique chain/city/state match; approximate identity
+69170,39.2554755,-81.5535698,https://www.openstreetmap.org/node/3975113031; exact chain/store ref
+69183,39.6173292,-83.6053445,https://www.openstreetmap.org/node/6294591785; exact chain/store ref
+69185,36.6623525,-76.9394735,https://www.openstreetmap.org/node/5225548348; unique chain/city/state match; approximate identity
+69203,41.5289375,-87.8495464,https://www.openstreetmap.org/way/436907363; exact chain/store ref
+69223,31.4275151,-85.6198204,https://www.openstreetmap.org/way/1147422697; unique chain/city/state match; approximate identity
+69229,35.6767616,-88.7458414,https://www.openstreetmap.org/node/9225578447; exact chain/store ref
+69236,44.5013513,-88.3200896,https://www.openstreetmap.org/node/11548244123; exact chain/store ref
+69237,42.9148366,-88.219747,https://www.openstreetmap.org/node/12864184411; unique chain/city/state match; approximate identity
+69239,34.6968317,-87.6360941,https://www.openstreetmap.org/node/5474122686; exact chain/store ref
+69245,34.7113332,-76.9916116,https://www.openstreetmap.org/node/2778691758; exact chain/store ref
+69252,36.0248902,-78.479113,https://www.openstreetmap.org/node/3188581293; exact chain/store ref
+69259,35.1373428,-84.9067902,https://www.openstreetmap.org/way/945328635; unique chain/city/state match; approximate identity
+69288,41.8261331,-90.5515765,https://www.openstreetmap.org/node/1783918069; exact chain/store ref
+69291,38.9319679,-111.8538972,https://www.openstreetmap.org/way/494917451; unique chain/city/state match; approximate identity
+69294,43.9402368,-90.7862995,https://www.openstreetmap.org/node/3103386667; exact chain/store ref
+69299,36.1504528,-81.1985331,https://www.openstreetmap.org/node/9412575976; exact chain/store ref
+69300,35.1403563,-76.8416324,https://www.openstreetmap.org/node/8270190910; exact chain/store ref
+69301,35.5477724,-76.6327494,https://www.openstreetmap.org/node/9377095342; exact chain/store ref
+69307,38.8897013,-89.8345657,https://www.openstreetmap.org/way/594352184; unique chain/city/state match; approximate identity
+69319,35.3634,-78.011167,https://www.openstreetmap.org/node/9389029856; exact chain/store ref
+69333,42.6747254,-85.6577068,https://www.openstreetmap.org/node/8239192713; unique chain/city/state match; approximate identity
+69336,36.1922159,-86.4116917,https://www.openstreetmap.org/node/9231429418; exact chain/store ref
+69338,41.2056028,-85.7067637,https://www.openstreetmap.org/relation/14479364; exact chain/store ref
+69339,39.4410021,-84.3415808,https://www.openstreetmap.org/way/543300577; exact chain/store ref
+69353,40.5119679,-80.1323833,https://www.openstreetmap.org/way/390255387; unique chain/city/state match; approximate identity
+69369,40.6261351,-80.2296595,https://www.openstreetmap.org/node/9328769306; exact chain/store ref
+69384,44.2972158,-88.2711969,https://www.openstreetmap.org/way/659395818; exact chain/store ref
+69394,40.0228378,-84.2389952,https://www.openstreetmap.org/node/1856816619; exact chain/store ref
+69397,35.6841886,-88.7779677,https://www.openstreetmap.org/node/8157971414; exact chain/store ref
+69398,35.0296845,-85.1875412,https://www.openstreetmap.org/node/9233639695; exact chain/store ref
+69399,35.4691423,-84.6532068,https://www.openstreetmap.org/node/9233595403; exact chain/store ref
+69401,41.2280056,-95.8533517,https://www.openstreetmap.org/way/698747745; unique chain/city/state match; approximate identity
+69454,39.2991663,-85.958545,https://www.openstreetmap.org/relation/17699585; exact chain/store ref
+69455,43.1174824,-88.0598345,https://www.openstreetmap.org/node/9206578232; exact chain/store ref
+69484,43.9611278,-89.8181935,https://www.openstreetmap.org/node/1925751494; unique chain/city/state match; approximate identity
+69496,39.8432791,-85.557363,https://www.openstreetmap.org/node/9588805132; exact chain/store ref
+69513,44.9288834,-90.3126782,https://www.openstreetmap.org/node/6384655674; unique chain/city/state match; approximate identity
+69520,40.0857179,-79.7610219,https://www.openstreetmap.org/node/4762948563; exact chain/store ref
+69545,32.1945578,-96.8989515,https://www.openstreetmap.org/node/7724941761; unique chain/city/state match; approximate identity
+69547,44.229247,-88.422973,https://www.openstreetmap.org/way/633149443; exact chain/store ref
+69553,41.6962436,-88.261415,https://www.openstreetmap.org/node/9483352143; exact chain/store ref
+69554,39.8264215,-85.7708635,https://www.openstreetmap.org/way/545190457; exact chain/store ref
+69562,42.6825488,-84.5127784,https://www.openstreetmap.org/node/8287318818; exact chain/store ref
+69563,37.9637836,-84.391866,https://www.openstreetmap.org/node/3238427982; exact chain/store ref
+69565,42.7409062,-86.0695172,https://www.openstreetmap.org/node/4350335864; unique chain/city/state match; approximate identity
+69566,41.4798643,-88.0788593,https://www.openstreetmap.org/way/851353103; unique chain/city/state match; approximate identity
+69567,46.433001,-92.7558568,https://www.openstreetmap.org/node/6357081519; unique chain/city/state match; approximate identity
+69568,42.7829909,-88.9625949,https://www.openstreetmap.org/way/772817329; unique chain/city/state match; approximate identity
+69592,39.7346473,-86.0642436,https://www.openstreetmap.org/node/9612010688; exact chain/store ref
+69594,41.5936708,-88.1863003,https://www.openstreetmap.org/way/991156290; exact chain/store ref
+69595,35.6508426,-87.0118492,https://www.openstreetmap.org/node/9049467391; exact chain/store ref
+69596,42.0088614,-87.9009057,https://www.openstreetmap.org/way/1027578860; exact chain/store ref
+69597,39.941536,-79.6590993,https://www.openstreetmap.org/node/9329496344; exact chain/store ref
+69598,41.389104,-81.8522751,https://www.openstreetmap.org/node/9690732664; exact chain/store ref
+69599,40.3986735,-79.7699223,https://www.openstreetmap.org/node/9329722022; exact chain/store ref
+69626,36.7344158,-91.8498923,https://www.openstreetmap.org/way/480232545; unique chain/city/state match; approximate identity
+69637,41.9039585,-88.1228527,https://www.openstreetmap.org/way/756604969; unique chain/city/state match; approximate identity
+69647,41.8544902,-88.2782016,https://www.openstreetmap.org/way/990302624; exact chain/store ref
+69649,41.203344,-79.9753358,https://www.openstreetmap.org/way/552621764; exact chain/store ref
+69654,36.7196649,-95.6290515,https://www.openstreetmap.org/way/1101471544; unique chain/city/state match; approximate identity
+69676,34.1234942,-84.2243222,https://www.openstreetmap.org/node/8987843635; exact chain/store ref
+69680,41.7547132,-87.7995761,https://www.openstreetmap.org/way/1244801295; unique chain/city/state match; approximate identity
+69686,39.9539938,-90.2089728,https://www.openstreetmap.org/way/1272612067; unique chain/city/state match; approximate identity
+69702,36.0109348,-83.5325506,https://www.openstreetmap.org/node/6616579582; exact chain/store ref
+69723,42.1476715,-88.5103008,https://www.openstreetmap.org/node/4583823789; exact chain/store ref
+69740,36.7559784,-81.8564451,https://www.openstreetmap.org/node/7556562928; unique chain/city/state match; approximate identity
+69741,33.4585355,-112.2392015,https://www.openstreetmap.org/way/1004594292; unique chain/city/state match; approximate identity
+69827,44.8807429,-91.9050357,https://www.openstreetmap.org/node/6835215490; exact chain/store ref
+69837,41.6001723,-87.5797774,https://www.openstreetmap.org/way/1259728858; unique chain/city/state match; approximate identity
+69851,42.2399827,-88.8326823,https://www.openstreetmap.org/way/682577325; exact chain/store ref
+69878,41.9605716,-87.9578278,https://www.openstreetmap.org/way/1028225242; exact chain/store ref
+69879,39.7503143,-86.2245041,https://www.openstreetmap.org/node/9609145797; exact chain/store ref
+69882,35.2619679,-87.3242177,https://www.openstreetmap.org/node/9228882763; exact chain/store ref
+69900,39.8938824,-83.7222527,https://www.openstreetmap.org/node/5827482088; exact chain/store ref
+69908,40.918394,-90.2937707,https://www.openstreetmap.org/way/1324938623; unique chain/city/state match; approximate identity
+69921,39.2529976,-88.152125,https://www.openstreetmap.org/node/12257901084; unique chain/city/state match; approximate identity
+69922,41.509248,-112.0537895,https://www.openstreetmap.org/way/942931981; unique chain/city/state match; approximate identity
+69975,38.0143553,-97.9412661,https://www.openstreetmap.org/node/11487080977; exact chain/store ref
+69976,43.58819,-89.8059696,https://www.openstreetmap.org/way/908240717; exact chain/store ref
+69979,46.2197204,-119.7928811,https://www.openstreetmap.org/node/11254003235; unique chain/city/state match; approximate identity
+69987,45.7495725,-107.611338,https://www.openstreetmap.org/node/7527860521; unique chain/city/state match; approximate identity
+69995,32.0843477,-110.8036489,https://www.openstreetmap.org/way/855741035; exact chain/store ref
+70003,40.2991474,-79.8754682,https://www.openstreetmap.org/node/2843335412; exact chain/store ref
+70004,40.3332272,-83.0745516,https://www.openstreetmap.org/node/7129352060; exact chain/store ref
+70009,42.6038651,-89.6501826,https://www.openstreetmap.org/node/591382404; unique chain/city/state match; approximate identity
+70025,40.5878361,-81.0917047,https://www.openstreetmap.org/node/9664821532; exact chain/store ref
+70026,41.3673517,-89.1536665,https://www.openstreetmap.org/node/9457890710; exact chain/store ref
+70027,42.0093145,-88.2901181,https://www.openstreetmap.org/way/1027577271; exact chain/store ref
+70030,41.5599964,-87.3555366,https://www.openstreetmap.org/way/1037865750; exact chain/store ref
+70031,40.8333986,-83.2448861,https://www.openstreetmap.org/way/636132586; exact chain/store ref
+70032,42.4557768,-92.3753402,https://www.openstreetmap.org/node/11230225678; exact chain/store ref
+70034,41.7687356,-87.8199877,https://www.openstreetmap.org/way/1028927027; exact chain/store ref
+70035,40.5020156,-86.868097,https://www.openstreetmap.org/node/9518189067; exact chain/store ref
+70036,41.8775431,-88.2357149,https://www.openstreetmap.org/node/9481264420; exact chain/store ref
+70037,39.4521181,-87.1270267,https://www.openstreetmap.org/node/9506751884; exact chain/store ref
+70038,43.0306452,-86.2173209,https://www.openstreetmap.org/node/8225235002; unique chain/city/state match; approximate identity
+70042,42.5067017,-93.2635743,https://www.openstreetmap.org/way/1392382950; unique chain/city/state match; approximate identity
+70059,46.6041629,-90.855216,https://www.openstreetmap.org/way/911659998; exact chain/store ref
+70084,42.4278559,-87.8770631,https://www.openstreetmap.org/way/334789888; exact chain/store ref
+70085,41.9879778,-87.9599371,https://www.openstreetmap.org/way/982036883; unique chain/city/state match; approximate identity
+70090,35.8768133,-87.8030024,https://www.openstreetmap.org/node/9228775799; exact chain/store ref
+70091,39.121178,-88.5583411,https://www.openstreetmap.org/way/1025725801; exact chain/store ref
+70098,46.5824977,-90.9048509,https://www.openstreetmap.org/way/911663040; exact chain/store ref
+70104,40.2661449,-103.6399969,https://www.openstreetmap.org/way/695758521; unique chain/city/state match; approximate identity
+70107,40.6532803,-82.5465589,https://www.openstreetmap.org/way/1017955890; unique chain/city/state match; approximate identity
+70118,35.9480108,-86.488131,https://www.openstreetmap.org/node/9231453390; exact chain/store ref
+70125,40.9613466,-80.659088,https://www.openstreetmap.org/way/1052089324; exact chain/store ref
+70126,40.6476915,-82.5435163,https://www.openstreetmap.org/way/508991369; unique chain/city/state match; approximate identity
+70127,40.3958866,-79.4428195,https://www.openstreetmap.org/node/9329474796; exact chain/store ref
+70157,42.4621813,-92.403849,https://www.openstreetmap.org/way/1073996101; exact chain/store ref
+70159,37.1563787,-77.2744303,https://www.openstreetmap.org/way/1117027718; unique chain/city/state match; approximate identity
+70162,36.7143545,-76.6694202,https://www.openstreetmap.org/relation/12929994; unique chain/city/state match; approximate identity
+70174,42.9896663,-82.9289302,https://www.openstreetmap.org/node/5842363688; unique chain/city/state match; approximate identity
+70190,34.6529577,-106.7933704,https://www.openstreetmap.org/way/759264386; unique chain/city/state match; approximate identity
+70256,27.916759,-81.7189547,https://www.openstreetmap.org/way/775433987; unique chain/city/state match; approximate identity
+70258,43.9927892,-95.7527106,https://www.openstreetmap.org/way/971268667; unique chain/city/state match; approximate identity
+70269,42.5241266,-96.4969297,https://www.openstreetmap.org/way/965645865; exact chain/store ref
+70273,38.1835893,-85.6985826,https://www.openstreetmap.org/node/9370401239; exact chain/store ref
+70278,44.2907429,-88.3123198,https://www.openstreetmap.org/way/759457978; unique chain/city/state match; approximate identity
+70281,41.9647785,-83.3450195,https://www.openstreetmap.org/node/6928859177; unique chain/city/state match; approximate identity
+70283,42.325734,-88.1648035,https://www.openstreetmap.org/way/1011131090; exact chain/store ref
+70292,36.7830823,-114.1399355,https://www.openstreetmap.org/way/818872556; unique chain/city/state match; approximate identity
+70295,41.6346384,-85.0446343,https://www.openstreetmap.org/node/9573542654; exact chain/store ref
+70298,32.7059807,-80.8744329,https://www.openstreetmap.org/way/585534949; unique chain/city/state match; approximate identity
+70303,42.527977,-92.3369135,https://www.openstreetmap.org/node/11228811921; exact chain/store ref
+70308,44.666111,-88.229266,https://www.openstreetmap.org/way/744214958; unique chain/city/state match; approximate identity
+70319,41.0455619,-81.6904407,https://www.openstreetmap.org/node/9678844102; exact chain/store ref
+70320,35.0333906,-85.582897,https://www.openstreetmap.org/way/1000310182; exact chain/store ref
+70323,40.1307449,-87.7778539,https://www.openstreetmap.org/way/1212472209; unique chain/city/state match; approximate identity
+70331,37.7940916,-79.8846531,https://www.openstreetmap.org/way/1061161519; unique chain/city/state match; approximate identity
+70334,42.6096174,-89.3773753,https://www.openstreetmap.org/way/779819154; unique chain/city/state match; approximate identity
+70336,42.4563982,-89.0008923,https://www.openstreetmap.org/node/9457139324; exact chain/store ref
+70344,45.5561256,-93.5849257,https://www.openstreetmap.org/node/9197354227; unique chain/city/state match; approximate identity
+70345,42.7830787,-86.0231128,https://www.openstreetmap.org/node/8238942763; unique chain/city/state match; approximate identity
+70359,36.8975674,-113.910173,https://www.openstreetmap.org/way/1173865803; unique chain/city/state match; approximate identity
+70379,34.2076398,-84.7997411,https://www.openstreetmap.org/way/745747683; unique chain/city/state match; approximate identity
+70380,35.2553607,-80.9807442,https://www.openstreetmap.org/way/875867767; unique chain/city/state match; approximate identity
+70383,30.6557127,-87.7601531,https://www.openstreetmap.org/node/8949777552; exact chain/store ref
+70424,43.3486132,-83.8616242,https://www.openstreetmap.org/node/8019952856; unique chain/city/state match; approximate identity
+70425,41.037055,-80.1274891,https://www.openstreetmap.org/way/1150067310; unique chain/city/state match; approximate identity
+70445,46.1287243,-98.0913774,https://www.openstreetmap.org/way/96425200; unique chain/city/state match; approximate identity
+70493,34.8153681,-91.5673622,https://www.openstreetmap.org/way/1245725280; unique chain/city/state match; approximate identity
+70498,44.9592088,-90.9368093,https://www.openstreetmap.org/way/1208641145; unique chain/city/state match; approximate identity
+70538,38.1518675,-85.0713276,https://www.openstreetmap.org/node/9362717255; exact chain/store ref
+70562,36.6278184,-86.5667781,https://www.openstreetmap.org/node/9230313879; exact chain/store ref
+70564,41.4639376,-82.0581281,https://www.openstreetmap.org/node/9696492109; exact chain/store ref
+70572,42.8636455,-82.558358,https://www.openstreetmap.org/node/7242834326; unique chain/city/state match; approximate identity
+70574,39.962069,-89.5619658,https://www.openstreetmap.org/node/8807029268; exact chain/store ref
+70575,40.4724758,-80.0608616,https://www.openstreetmap.org/way/904181137; exact chain/store ref
+70577,41.5730397,-88.1210636,https://www.openstreetmap.org/node/9494202880; exact chain/store ref
+70585,32.3071259,-102.5422731,https://www.openstreetmap.org/way/843566165; unique chain/city/state match; approximate identity
+70588,40.1713162,-79.7338813,https://www.openstreetmap.org/node/9329615666; exact chain/store ref
+70591,40.7511827,-81.4008527,https://www.openstreetmap.org/node/9281966854; exact chain/store ref
+70592,34.1396983,-80.7489165,https://www.openstreetmap.org/node/10228325504; unique chain/city/state match; approximate identity
+70593,34.4429806,-84.9155315,https://www.openstreetmap.org/node/13149411586; unique chain/city/state match; approximate identity
+70595,40.1226317,-87.7779886,https://www.openstreetmap.org/way/1025728320; exact chain/store ref
+70596,34.15129,-83.6405825,https://www.openstreetmap.org/node/8986940150; exact chain/store ref
+70597,38.0758286,-84.5068454,https://www.openstreetmap.org/node/8358347297; exact chain/store ref
+70598,35.0209295,-89.9199411,https://www.openstreetmap.org/way/965096585; unique chain/city/state match; approximate identity
+70600,43.1487903,-93.2217625,https://www.openstreetmap.org/node/8709804279; unique chain/city/state match; approximate identity
+70604,43.2707285,-93.634494,https://www.openstreetmap.org/node/2451240681; exact chain/store ref
+70605,41.8341695,-87.744134,https://www.openstreetmap.org/way/1019581844; exact chain/store ref
+70606,37.0441396,-86.2092869,https://www.openstreetmap.org/node/9333333932; exact chain/store ref
+70607,41.4572764,-88.1932341,https://www.openstreetmap.org/way/144058666; exact chain/store ref
+70608,45.2072124,-93.3790776,https://www.openstreetmap.org/node/9947960712; exact chain/store ref
+70622,40.2635545,-75.7411218,https://www.openstreetmap.org/way/878780830; exact chain/store ref
+70623,41.6808697,-88.0681865,https://www.openstreetmap.org/way/770782380; exact chain/store ref
+70630,41.1057085,-81.3475495,https://www.openstreetmap.org/node/9676077472; exact chain/store ref
+70638,39.0819108,-95.7259068,https://www.openstreetmap.org/node/11390050274; exact chain/store ref
+70641,38.0219052,-79.1431771,https://www.openstreetmap.org/way/1021489859; unique chain/city/state match; approximate identity
+70656,42.0764458,-83.6675212,https://www.openstreetmap.org/node/7836942385; unique chain/city/state match; approximate identity
+70660,41.0489728,-94.3620737,https://www.openstreetmap.org/way/1134129333; unique chain/city/state match; approximate identity
+70722,43.0886165,-76.0924381,https://www.openstreetmap.org/node/9440667790; exact chain/store ref
+70723,42.1102125,-77.1555692,https://www.openstreetmap.org/node/6781698620; exact chain/store ref
+70724,33.5919067,-80.3550046,https://www.openstreetmap.org/node/8792673039; unique chain/city/state match; approximate identity
+70728,43.35046,-97.4212351,https://www.openstreetmap.org/way/1545867371; unique chain/city/state match; approximate identity
+70739,39.7734401,-93.0725353,https://www.openstreetmap.org/way/1532814147; unique chain/city/state match; approximate identity
+70745,43.9324015,-94.9385419,https://www.openstreetmap.org/way/1076421505; unique chain/city/state match; approximate identity
+70754,37.5191933,-97.004267,https://www.openstreetmap.org/node/11415814105; exact chain/store ref
+70759,44.111482,-93.7082142,https://www.openstreetmap.org/way/1157010010; unique chain/city/state match; approximate identity
+70760,40.8861043,-97.1022417,https://www.openstreetmap.org/way/213025585; unique chain/city/state match; approximate identity
+70763,42.4682035,-91.4820141,https://www.openstreetmap.org/way/1329493074; unique chain/city/state match; approximate identity
+70774,42.467026,-95.148812,https://www.openstreetmap.org/way/1096469864; unique chain/city/state match; approximate identity
+70778,39.9872841,-84.19979,https://www.openstreetmap.org/way/1082607761; unique chain/city/state match; approximate identity
+70788,41.4238875,-81.50394,https://www.openstreetmap.org/node/9672824049; exact chain/store ref
+70858,32.1956444,-86.4201695,https://www.openstreetmap.org/node/8949405727; exact chain/store ref
+70877,42.4885396,-87.9529168,https://www.openstreetmap.org/node/9446683206; unique chain/city/state match; approximate identity
+70885,44.2563841,-88.2935772,https://www.openstreetmap.org/way/914732076; exact chain/store ref
+71046,39.2620367,-84.6032611,https://www.openstreetmap.org/way/1010882153; exact chain/store ref
+71056,34.6193382,-87.0526544,https://www.openstreetmap.org/node/8946643765; exact chain/store ref
+71064,39.792643,-88.265826,https://www.openstreetmap.org/way/1084498997; unique chain/city/state match; approximate identity
+71142,42.2155543,-89.1068874,https://www.openstreetmap.org/way/1324607131; unique chain/city/state match; approximate identity
+71199,34.0933728,-88.0052143,https://www.openstreetmap.org/way/1323594922; unique chain/city/state match; approximate identity
+71200,41.16091,-96.120258,https://www.openstreetmap.org/way/896841399; unique chain/city/state match; approximate identity
+71262,39.9446231,-82.6797078,https://www.openstreetmap.org/way/1028201586; exact chain/store ref
+71318,41.9986196,-87.9599918,https://www.openstreetmap.org/way/1259770386; unique chain/city/state match; approximate identity
+71322,45.2227172,-87.9961403,https://www.openstreetmap.org/way/1102793915; exact chain/store ref
+71340,44.3283449,-94.4768353,https://www.openstreetmap.org/way/1307276106; unique chain/city/state match; approximate identity
+71382,43.4406221,-88.8561445,https://www.openstreetmap.org/way/1340613366; unique chain/city/state match; approximate identity
+71388,41.2192614,-96.636464,https://www.openstreetmap.org/node/5220961474; unique chain/city/state match; approximate identity
+71399,39.0126494,-94.0679621,https://www.openstreetmap.org/way/1137651161; unique chain/city/state match; approximate identity
+71447,44.1114697,-88.6970794,https://www.openstreetmap.org/node/13890227551; exact chain/store ref
+71482,47.4750539,-111.3611428,https://www.openstreetmap.org/node/11209326297; exact chain/store ref
+71487,38.9489037,-112.3527333,https://www.openstreetmap.org/way/1038853917; unique chain/city/state match; approximate identity
+71490,33.6469842,-85.5060183,https://www.openstreetmap.org/node/13770704750; unique chain/city/state match; approximate identity
+71492,38.2447507,-86.3580644,https://www.openstreetmap.org/way/1323938368; unique chain/city/state match; approximate identity
+71499,43.0062557,-89.7024071,https://www.openstreetmap.org/node/9747225578; unique chain/city/state match; approximate identity
+71516,42.2588625,-79.7432329,https://www.openstreetmap.org/node/10926790752; unique chain/city/state match; approximate identity
+71556,44.9529801,-90.7996226,https://www.openstreetmap.org/way/660086089; unique chain/city/state match; approximate identity
+71582,34.7986947,-80.4054385,https://www.openstreetmap.org/node/9965048105; unique chain/city/state match; approximate identity
+71661,35.4601904,-93.4805779,https://www.openstreetmap.org/way/1255415806; unique chain/city/state match; approximate identity
+71738,42.7325499,-90.4383731,https://www.openstreetmap.org/node/4426108087; exact chain/store ref
+71794,46.4639986,-90.167476,https://www.openstreetmap.org/node/10091591142; unique chain/city/state match; approximate identity
+71812,43.6235856,-87.776184,https://www.openstreetmap.org/node/12432317629; exact chain/store ref
+71828,44.8504478,-87.356153,https://www.openstreetmap.org/node/7022091219; exact chain/store ref
+71852,45.8227366,-91.8914497,https://www.openstreetmap.org/node/1347449852; unique chain/city/state match; approximate identity
+71862,41.7565518,-81.0463856,https://www.openstreetmap.org/node/11741967407; unique chain/city/state match; approximate identity
+71873,45.1647919,-93.0374519,https://www.openstreetmap.org/way/1245949860; exact chain/store ref
+71898,40.5416779,-88.997369,https://www.openstreetmap.org/node/11889678420; unique chain/city/state match; approximate identity
+72142,41.7240543,-85.967101,https://www.openstreetmap.org/node/2826427962; unique chain/city/state match; approximate identity
+72217,37.374864,-79.1606403,https://www.openstreetmap.org/way/934060659; unique chain/city/state match; approximate identity
+72351,40.4530195,-86.8502335,https://www.openstreetmap.org/way/1365688113; unique chain/city/state match; approximate identity
+72481,44.2971571,-92.7898781,https://www.openstreetmap.org/node/7581363249; unique chain/city/state match; approximate identity
+72611,46.2762162,-87.4150509,https://www.openstreetmap.org/way/832941344; unique chain/city/state match; approximate identity
+72640,46.4646132,-87.4258337,https://www.openstreetmap.org/way/832848547; unique chain/city/state match; approximate identity
+72642,38.0793712,-117.253658,https://www.openstreetmap.org/way/1187700572; unique chain/city/state match; approximate identity
+72677,45.8338631,-88.0587214,https://www.openstreetmap.org/node/13201949100; unique chain/city/state match; approximate identity
+72702,32.5956877,-93.829603,https://www.openstreetmap.org/way/1355059987; unique chain/city/state match; approximate identity
+72741,41.0932124,-88.4424243,https://www.openstreetmap.org/way/993989556; unique chain/city/state match; approximate identity
+72799,41.8239109,-89.4754217,https://www.openstreetmap.org/node/13352461977; unique chain/city/state match; approximate identity
+72801,35.0812252,-91.9034115,https://www.openstreetmap.org/node/13273258365; unique chain/city/state match; approximate identity

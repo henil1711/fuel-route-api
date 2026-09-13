@@ -1,0 +1,86 @@
+[
+  {
+    "route": "short",
+    "start": "New York, NY",
+    "finish": "Newark, NJ",
+    "status": 200,
+    "seconds_miss_hit": [
+      0.6879,
+      0.0098
+    ],
+    "actual_http_calls_miss_hit": [
+      1,
+      0
+    ],
+    "fuel_stops": 0,
+    "geometry_points": 536,
+    "summary": {
+      "total_distance_miles": "10.307678",
+      "total_fuel_consumed_gallons": "1.030768",
+      "total_fuel_purchased_gallons": "0.000000",
+      "total_fuel_cost": "0.00",
+      "initial_fuel_gallons": "50.000000",
+      "arrival_fuel_gallons": "48.969232",
+      "gallons_consumed_after_last_stop": "1.030768",
+      "currency": "USD",
+      "initial_tank_cost_included": false,
+      "detour_fuel_included": false
+    }
+  },
+  {
+    "route": "chicago",
+    "start": "New York, NY",
+    "finish": "Chicago, IL",
+    "status": 200,
+    "seconds_miss_hit": [
+      1.0708,
+      0.0678
+    ],
+    "actual_http_calls_miss_hit": [
+      1,
+      0
+    ],
+    "fuel_stops": 2,
+    "geometry_points": 12624,
+    "summary": {
+      "total_distance_miles": "790.565721",
+      "total_fuel_consumed_gallons": "79.056572",
+      "total_fuel_purchased_gallons": "29.056572",
+      "total_fuel_cost": "99.57",
+      "initial_fuel_gallons": "50.000000",
+      "arrival_fuel_gallons": "0.000000",
+      "gallons_consumed_after_last_stop": "1.976525",
+      "currency": "USD",
+      "initial_tank_cost_included": false,
+      "detour_fuel_included": false
+    }
+  },
+  {
+    "route": "long",
+    "start": "New York, NY",
+    "finish": "Dallas, TX",
+    "status": 200,
+    "seconds_miss_hit": [
+      1.1485,
+      0.1089
+    ],
+    "actual_http_calls_miss_hit": [
+      1,
+      0
+    ],
+    "fuel_stops": 9,
+    "geometry_points": 20888,
+    "summary": {
+      "total_distance_miles": "1548.502744",
+      "total_fuel_consumed_gallons": "154.850274",
+      "total_fuel_purchased_gallons": "104.850274",
+      "total_fuel_cost": "324.34",
+      "initial_fuel_gallons": "50.000000",
+      "arrival_fuel_gallons": "0.000000",
+      "gallons_consumed_after_last_stop": "29.850057",
+      "currency": "USD",
+      "initial_tank_cost_included": false,
+      "detour_fuel_included": false
+    }
+  }
+]

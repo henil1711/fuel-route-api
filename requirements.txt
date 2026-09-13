@@ -1,0 +1,9 @@
+Django==6.1.1
+djangorestframework==3.18.1
+requests==2.34.2
+shapely==2.1.2
+pyproj==3.8.0
+numpy==2.5.3
+python-dotenv==1.2.3
+filelock==3.32.6
+waitress==3.0.2

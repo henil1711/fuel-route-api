@@ -1,0 +1,164 @@
+{
+  "info": {
+    "name": "Fuel Route API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://127.0.0.1:8000",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Short drive \u2014 no fuel purchase",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/route/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"New York, NY\",\n  \"finish\": \"Newark, NJ\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "description": "Run setup and import the prepared station coordinate file first. Repeat the request to observe route_cache_hit=true."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"HTTP 200\", () => pm.response.to.have.status(200));",
+              "const data = pm.response.json();",
+              "pm.test(\"GeoJSON route\", () => pm.expect(data.route.geometry.type).to.eql(\"LineString\"));",
+              "pm.test(\"Fuel summary\", () => pm.expect(Number(data.fuel_summary.total_fuel_cost)).to.be.at.least(0));",
+              "pm.test(\"At most one routing call\", () => pm.expect(data.metadata.routing_calls_this_request).to.be.at.most(1));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York to Chicago",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/route/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"New York, NY\",\n  \"finish\": \"Chicago, IL\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "description": "Run setup and import the prepared station coordinate file first. Repeat the request to observe route_cache_hit=true."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"HTTP 200\", () => pm.response.to.have.status(200));",
+              "const data = pm.response.json();",
+              "pm.test(\"GeoJSON route\", () => pm.expect(data.route.geometry.type).to.eql(\"LineString\"));",
+              "pm.test(\"Fuel summary\", () => pm.expect(Number(data.fuel_summary.total_fuel_cost)).to.be.at.least(0));",
+              "pm.test(\"At most one routing call\", () => pm.expect(data.metadata.routing_calls_this_request).to.be.at.most(1));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York to Dallas \u2014 multiple stops",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/route/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"New York, NY\",\n  \"finish\": \"Dallas, TX\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "description": "Run setup and import the prepared station coordinate file first. Repeat the request to observe route_cache_hit=true."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"HTTP 200\", () => pm.response.to.have.status(200));",
+              "const data = pm.response.json();",
+              "pm.test(\"GeoJSON route\", () => pm.expect(data.route.geometry.type).to.eql(\"LineString\"));",
+              "pm.test(\"Fuel summary\", () => pm.expect(Number(data.fuel_summary.total_fuel_cost)).to.be.at.least(0));",
+              "pm.test(\"At most one routing call\", () => pm.expect(data.metadata.routing_calls_this_request).to.be.at.most(1));",
+              "pm.test(\"Multiple fuel stops\", () => pm.expect(data.fuel_stops.length).to.be.at.least(2));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reject non-US finish",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/route/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"New York, NY\",\n  \"finish\": \"Toronto, Canada\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "description": "Run setup and import the prepared station coordinate file first. Repeat the request to observe route_cache_hit=true."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"HTTP 400\", () => pm.response.to.have.status(400));"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

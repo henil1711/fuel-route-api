@@ -1,0 +1,87 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fuel Route · Plan your drive</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <link rel="stylesheet" href="{% static 'route.css' %}" />
+    <script
+      defer
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    ></script>
+    <script defer src="{% static 'route.js' %}"></script>
+  </head>
+  <body>
+    <header>
+      <a href="/route/" class="logo">↗ FUEL ROUTE</a
+      ><span>USA / DRIVING PLANNER</span>
+    </header>
+    <main>
+      <section class="intro">
+        <p class="eyebrow">THE ROAD AHEAD, FOR LESS</p>
+        <h1>More miles.<br />Smarter fuel stops.</h1>
+        <p>
+          Plan a drive using real road geometry and fuel prices from the
+          supplied station dataset.
+        </p>
+      </section>
+      <form id="planner">
+        <label
+          >Start location<input
+            name="start"
+            value="New York, NY"
+            maxlength="200"
+            required
+        /></label>
+        <label
+          >Finish location<input
+            name="finish"
+            value="Chicago, IL"
+            maxlength="200"
+            required
+        /></label>
+        <button type="submit">Plan my route ↗</button>
+      </form>
+      <p id="status" role="status" aria-live="polite">
+        50-gallon tank · 500-mile range · 10 MPG · Starts full
+      </p>
+      <div id="summary" class="summary" hidden></div>
+      <div id="map" aria-label="Driving route map"></div>
+      <section id="stops" hidden>
+        <h2>Your fuel stops</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Station</th>
+                <th>At mile</th>
+                <th>Price / gal</th>
+                <th>Buy gallons</th>
+                <th>Cost</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <aside>
+        Estimates exclude station access detours and the initial tank’s cost.
+        Prices are the minimum observed per station in the supplied CSV, not
+        live prices. Only located stations participate.
+      </aside>
+      <footer>
+        Map & location data ©
+        <a href="https://www.openstreetmap.org/copyright"
+          >OpenStreetMap contributors</a
+        >
+        · Routing by OSRM
+      </footer>
+    </main>
+    {{ tile_url|json_script:"tile-url" }}
+  </body>
+</html>
